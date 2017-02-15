@@ -1,2 +1,14 @@
+amqp==2.1.4
+appdirs==1.4.0
+Babel==2.3.4
+billiard==3.5.0.2
+celery==4.0.2
 flower==0.9.1
+kombu==4.0.2
+packaging==16.8
+pyparsing==2.1.10
+pytz==2016.10
 redis==2.10.5
+six==1.10.0
+tornado==4.2
+vine==1.1.3

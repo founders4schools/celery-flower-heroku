@@ -7,4 +7,4 @@ kombu==4.2.0
 pytz==2018.4
 redis==2.10.6
 tornado==4.5.3 # pyup: >=4,<5
-vine==1.1.4
+vine==1.2.0
